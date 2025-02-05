@@ -1,1 +1,1 @@
-# Sentence generator
+# Sentence constructor
