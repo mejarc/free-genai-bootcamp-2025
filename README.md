@@ -10,6 +10,6 @@ pip install -r requirements.txt
 
 ### Frontend
 ```sh
-cd frontend-react
+cd lang-portal/frontend-react
 npx vite
 ```
